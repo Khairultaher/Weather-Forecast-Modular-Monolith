@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khair\\source\\repos\\MMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\weathermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\weathermodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\create\\createweatherforcastcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcasthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|c:\\users\\khair\\source\\repos\\mma\\modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9BB722-5AD2-4A2B-85DB-E963CDA4FBA3}|Modules\\MMA.Weather\\MMA.Weather.csproj|solutionrelative:modules\\mma.weather\\features\\weatherforcast\\get\\getweatherforcastendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetWeatherForcastValidator.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastValidator.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastValidator.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastValidator.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:32:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateWeatherForcastCommand.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastCommand.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastCommand.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastCommand.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:22:41.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateWeatherForcastHandler.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastHandler.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastHandler.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:22:38.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateWeatherForcastEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastEndpoint.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastEndpoint.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastEndpoint.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:21:12.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Models\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:23:40.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateWeatherForcastValidator.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastValidator.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastValidator.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastValidator.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Create\\CreateWeatherForcastValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:23:57.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherModule.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\WeatherModule.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\WeatherModule.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\WeatherModule.cs*",
+              "RelativeToolTip": "Modules\\MMA.Weather\\WeatherModule.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:31:04.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetWeatherForcastQuery.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastQuery.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastQuery.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastQuery.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T08:12:49.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetWeatherForcastEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastEndpoint.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastEndpoint.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastEndpoint.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:47:21.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetWeatherForcastHandler.cs",
+              "DocumentMoniker": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastHandler.cs",
+              "RelativeDocumentMoniker": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastHandler.cs",
+              "ToolTip": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastHandler.cs",
+              "RelativeToolTip": "Modules\\MMA.Weather\\Features\\WeatherForcast\\Get\\GetWeatherForcastHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T06:46:27.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

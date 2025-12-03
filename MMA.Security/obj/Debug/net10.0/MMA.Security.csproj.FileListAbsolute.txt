@@ -1,0 +1,11 @@
+C:\Users\khair\source\repos\MMA\MMA.Security\bin\Debug\net10.0\MMA.Security.deps.json
+C:\Users\khair\source\repos\MMA\MMA.Security\bin\Debug\net10.0\MMA.Security.dll
+C:\Users\khair\source\repos\MMA\MMA.Security\bin\Debug\net10.0\MMA.Security.pdb
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.AssemblyInfoInputs.cache
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.AssemblyInfo.cs
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.csproj.CoreCompileInputs.cache
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.dll
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\refint\MMA.Security.dll
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\MMA.Security.pdb
+C:\Users\khair\source\repos\MMA\MMA.Security\obj\Debug\net10.0\ref\MMA.Security.dll

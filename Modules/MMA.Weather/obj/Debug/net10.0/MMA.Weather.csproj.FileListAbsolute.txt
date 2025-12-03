@@ -1,0 +1,15 @@
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\bin\Debug\net10.0\MMA.Weather.deps.json
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\bin\Debug\net10.0\MMA.Weather.dll
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\bin\Debug\net10.0\MMA.Weather.pdb
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\bin\Debug\net10.0\Shared.dll
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\bin\Debug\net10.0\Shared.pdb
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.csproj.AssemblyReference.cache
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.AssemblyInfoInputs.cache
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.AssemblyInfo.cs
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.csproj.CoreCompileInputs.cache
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weat.B861FC0B.Up2Date
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.dll
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\refint\MMA.Weather.dll
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\MMA.Weather.pdb
+C:\Users\khair\source\repos\MMA\Modules\MMA.Weather\obj\Debug\net10.0\ref\MMA.Weather.dll

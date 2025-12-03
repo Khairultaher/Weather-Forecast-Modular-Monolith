@@ -1,0 +1,53 @@
+[
+  {
+    "ContainingType": "MMA.Weather.Features.WeatherForcast.Get.WeatherForcastController",
+    "Method": "Get",
+    "RelativePath": "api/WeatherForcast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "MMA.Weather.Features.WeatherForcast.Get.GetWeatherForcastQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MMA.Weather.Features.WeatherForcast.Create.WeatherForcastController",
+    "Method": "Create",
+    "RelativePath": "api/WeatherForcast",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MMA.Weather.Features.WeatherForcast.Create.CreateWeatherForcastCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0",
+    "RelativePath": "weatherforecast1",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "WeatherForecast[]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

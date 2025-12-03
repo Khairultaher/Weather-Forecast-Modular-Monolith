@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Bootstrapper/">
+    <Project Path="Bootstrapper/MMA.API/MMA.API.csproj" Id="3a4c8cd6-b1a4-4aec-baa3-786724a80650" />
+  </Folder>
+  <Folder Name="/Modules/">
+    <Project Path="MMA.Security/MMA.Security.csproj" Id="14cc7f4f-76fc-4211-8a53-44e30e229a07" />
+    <Project Path="Modules/MMA.Weather/MMA.Weather.csproj" Id="cf9bb722-5ad2-4a2b-85db-e963cda4fba3" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared/Shared.csproj" Id="4b722ff2-33cc-4ccb-a2ac-ae81d68dce1a" />
+  </Folder>
+</Solution>

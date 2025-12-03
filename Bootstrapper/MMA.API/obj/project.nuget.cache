@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/pwSLuhDmY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khair\\source\\repos\\MMA\\Bootstrapper\\MMA.API\\MMA.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khair\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\khair\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\khair\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
