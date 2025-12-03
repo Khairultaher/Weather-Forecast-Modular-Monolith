@@ -1,0 +1,6 @@
+services:
+  mma.api:
+    image: ${DOCKER_REGISTRY-}mmaapi
+    build:
+      context: .
+      dockerfile: Bootstrapper/MMA.API/Dockerfile
