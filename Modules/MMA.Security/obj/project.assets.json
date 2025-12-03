@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khair\\source\\repos\\MMA\\MMA.Security\\MMA.Security.csproj",
+      "projectUniqueName": "A:\\PRACTICE\\MMA\\Modules\\MMA.Security\\MMA.Security.csproj",
       "projectName": "MMA.Security",
-      "projectPath": "C:\\Users\\khair\\source\\repos\\MMA\\MMA.Security\\MMA.Security.csproj",
+      "projectPath": "A:\\PRACTICE\\MMA\\Modules\\MMA.Security\\MMA.Security.csproj",
       "packagesPath": "C:\\Users\\khair\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khair\\source\\repos\\MMA\\MMA.Security\\obj\\",
+      "outputPath": "A:\\PRACTICE\\MMA\\Modules\\MMA.Security\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

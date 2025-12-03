@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EjcyuTMwwsA=",
+  "dgSpecHash": "uu/gQztGAMc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\khair\\source\\repos\\MMA\\Modules\\MMA.Weather\\MMA.Weather.csproj",
+  "projectFilePath": "A:\\PRACTICE\\MMA\\Modules\\MMA.Weather\\MMA.Weather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khair\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
     "C:\\Users\\khair\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
