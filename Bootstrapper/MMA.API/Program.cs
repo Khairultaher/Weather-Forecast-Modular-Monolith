@@ -1,15 +1,24 @@
+using MMA.Security;
 using MMA.Weather;
+using Shared;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpContextAccessor();
+//builder.Services.AddScoped<IDomainEventService, DomainEventService>();
+builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
+
+// register weater module
 builder.Services.AddWeatherModule(builder.Configuration);
-// Add controllers
 builder.Services.AddControllers()
                 .AddApplicationPart(typeof(MMA.Weather.WeatherModule)
                 .Assembly);
+
+// register security module
+builder.Services.AddSecurityModule(builder.Configuration);
 
 var app = builder.Build();
 

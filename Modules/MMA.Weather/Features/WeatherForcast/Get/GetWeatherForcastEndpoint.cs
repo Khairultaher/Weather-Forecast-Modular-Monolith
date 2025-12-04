@@ -4,14 +4,15 @@ using Shared;
 
 namespace MMA.Weather.Features.WeatherForcast.Get;
 
-public partial class WeatherForcastController : BaseController {
+public partial class GetWeatherForcastController : BaseController {
 
     private GetWeatherForcastHandler _handler;
-    public WeatherForcastController(GetWeatherForcastHandler handler) {
+    public GetWeatherForcastController(GetWeatherForcastHandler handler) {
         _handler = handler;
     }
 
     [HttpGet]
+    [Route("WeatherForecast")]
     public async Task<ActionResult<List<WeatherForecastEntity>>> Get([FromBody] GetWeatherForcastQuery query) {
         var forecasts = await _handler.Handle(query);
         return forecasts;
