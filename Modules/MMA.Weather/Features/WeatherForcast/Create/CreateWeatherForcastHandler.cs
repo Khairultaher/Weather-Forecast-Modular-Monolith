@@ -1,5 +1,4 @@
 ﻿using MMA.Weather.Models;
-using System;
 
 namespace MMA.Weather.Features.WeatherForcast.Create;
 

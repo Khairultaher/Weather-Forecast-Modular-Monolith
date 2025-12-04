@@ -3,6 +3,7 @@
 namespace Shared;
 
 [ApiController]
-[Route("api/[controller]")]
+//[Route("api/[controller]")]
+[Route("api")]
 public class BaseController : ControllerBase {
 }
